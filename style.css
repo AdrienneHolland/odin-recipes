@@ -1,12 +1,30 @@
+#bold {
+    color: black;
+    background-color:grey;
+    text-align: center;
+}
 
-body {
+* {
     font-family: arial,sans-serif;
 }
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;  
+}
+
+
+li {
+    color: purple;
+}
+
 * {
     font-size: 22px;
 }
-.describe {
-    color:orange;
+.main {
+    color:brown;
+    text-align: center;
 }
 p {
     color:rgb(174, 216, 58, 0.986);
