@@ -1,9 +1,6 @@
 #bold {
-    color: black;
-    background-color:grey;
-    text-align: center;
+    background-color:pink;
 }
-
 * {
     font-family: arial,sans-serif;
 }
@@ -22,7 +19,8 @@ li {
 * {
     font-size: 22px;
 }
-.main {
+.main,
+#bold {
     color:brown;
     text-align: center;
 }
